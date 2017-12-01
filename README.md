@@ -5,6 +5,8 @@ In semantic segmentation, each object is painted with tiny pixels that make up a
 
 Here are the youtube links generated from videos from my camera:
 
+https://youtu.be/Nha7G6JzmBw
+
 https://youtu.be/-EvB-2lqLSA
 
 https://youtu.be/JX6U5IBgn1o
